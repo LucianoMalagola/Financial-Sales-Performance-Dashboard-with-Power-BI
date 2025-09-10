@@ -1,4 +1,4 @@
-# Financial & Sales Performance Dashboard with Power-BI
+# Financial & Sales Performance Dashboard with Power BI
 A data analysis and visualization practice built in Power BI using a public data set from [chandoo.org](https://chandoo.org/wp/)
 
 The goal was to independently replicate and personalize the **Financial & Sales Dashboard** demonstrated by [Chandoo in his YouTube video](https://youtu.be/i3AR0gt9SHA?si=suMojILCSCgra5D2), applying my own approach to data modeling, DAX calculations, and visualization techniques to highlight KPIs, track target attainment, and evaluate employee performance.
@@ -22,10 +22,10 @@ Measures include:
 
 ## Highlights
 The Dashboard includes:
-- Financial Overview: Total Sales vs. Target Sales with variance tracking.
-- Trend Analysis: Monthly financial performance across 14 months.
-- Target Attainment: Visualization of actual vs. expected results over time.
-- Employee Performance: Individual breakdown about sales figures and variance analysis.
+- **Financial Overview**: Total Sales vs. Target Sales with variance tracking.
+- **Trend Analysis**: Monthly financial performance across 14 months.
+- **Target Attainment**: Visualization of actual vs. expected results over time.
+- **Employee Performance**: Individual breakdown about sales figures and variance analysis.
 
 ## Tools & Technologies
 
